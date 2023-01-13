@@ -1,8 +1,9 @@
 ### Hi there 👋  I'm amandakelake
 
-- **Learning :** Front-End Development :zap: | Open-Source :fire:	
-- **Languages :** JavaScript(Typescript), Node
-- **Hobbies :** Reading(Especially history), Basketball, Cooking
+- **My Job :** Front-End :zap:	
+- **Tech :** JS/TS、Vue/React、Node
+- **Hobbies :** Reading, Basketball, Cooking
+- **Current learning :** Web3
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amandakelake)](https://github.com/anuraghazra/github-readme-stats)
 
