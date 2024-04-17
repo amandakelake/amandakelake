@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm amandakelake
 
 - **My Job :** Front-End :zap:	
-- **Tech :** JS/TS、Vue/React、Node
+- **Tech :** JS/TS、Vue2/React/NextJS、NestJS、MUI
 - **Hobbies :** Reading, Basketball, Cooking
 - **Current learning :** Web3
 
